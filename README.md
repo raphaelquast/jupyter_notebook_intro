@@ -17,7 +17,7 @@ Once it's completed you should arrive at a page looking something like this:
 
 ![jupyter-page](jupyter_page.PNG)
 
-- click on the **jupyter_nb_introduction.ipynpl** file and select **kernel** -> **Run All** to execute the notebook
+- click on the **jupyter_nb_introduction.ipynpl** file and select **kernel** -> **Restart & Run All** to execute the notebook
 
 ![jupyter-page](jupyter_page_2.PNG)
 
