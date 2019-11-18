@@ -26,8 +26,9 @@ Once it's completed you should arrive at a page looking something like this
 
 
 
-# Enable scrolling the presentation slides
-some slides might be to large for your screen.
+## Enable scrolling the presentation slides
+some slides might be to large for your screen. (particularly those that contain code-cells)
+
 in order to enable scrolling the slides go to the **nbextensions** tab and click on **Rise**
 ![jupyter-page](nbextensions.png)
 
