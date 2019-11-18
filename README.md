@@ -13,7 +13,8 @@ To try jupyter notebooks **without installing anything locally**, click on the "
 and wait for the server to complete setting up the environment. 
 (this might take several minutes since the python environment etc. has to be set up on a server with very limited resources)
 
-Once it's completed you should arrive at a page looking something like this:
+Once it's completed you should arrive at a page looking something like this  
+(completely similar to what you would get by using a local installation):
 
 ![jupyter-page](jupyter_page.PNG)
 
