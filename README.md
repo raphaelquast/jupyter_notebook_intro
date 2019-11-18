@@ -9,6 +9,7 @@ just click at the **[jupyter_nb_introduction.ipynb](jupyter_nb_introduction.ipyn
 (GitHub should render it automatically)
 
 
+## Using Binder to run the notebook without a local installation
 To try jupyter notebooks **without installing anything locally**, click on the "launch binder" icon above
 and wait for the server to complete setting up the environment. 
 (this might take several minutes since the python environment etc. has to be set up on a server with very limited resources)
@@ -25,8 +26,7 @@ Once it's completed you should arrive at a page looking something like this
 - click on the Rise-icon on the right ![Rise-icon](rise_icon.png) to start the notebook as an interactive HTML-presentation 
 
 
-
-## Enable scrolling the presentation slides
+### Enable scrolling the presentation slides
 some slides might be to large for your screen. (particularly those that contain code-cells)
 
 in order to enable scrolling the slides go to the **nbextensions** tab and click on **Rise**
