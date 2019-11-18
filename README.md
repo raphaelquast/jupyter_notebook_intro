@@ -12,7 +12,7 @@ just click at the **[jupyter_nb_introduction.ipynb](jupyter_nb_introduction.ipyn
 ## Using Binder to run the notebook without a local installation
 To try jupyter notebooks **without installing anything locally**, click on the "launch binder" icon above
 and wait for the server to complete setting up the environment. 
-(this **might take several minutes** since the python environment etc. has to be set up on a server with **very limited resources**)
+(this **might take several minutes** since the python environment etc. has to be set up on a server with **limited resources**)
 
 Once it's completed you should arrive at a page looking something like this  
 (completely similar to what you would get by using a local installation):
