@@ -11,7 +11,7 @@ just click at the **[jupyter_nb_introduction.ipynb](jupyter_nb_introduction.ipyn
 
 To try jupyter notebooks **without installing anything locally**, click on the "launch binder" icon above
 and wait for the server to complete setting up the environment. 
-(this might take a couple of minutes since the python environment etc. has to be set up)
+(this might take several minutes since the python environment etc. has to be set up on a server with very limited resources)
 
 Once it's completed you should arrive at a page looking something like this:
 
