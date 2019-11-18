@@ -21,4 +21,4 @@ Once it's completed you should arrive at a page looking something like this:
 
 ![jupyter-page](jupyter_page_2.PNG)
 
-- click on the Rise-icon on the right ![Rise-icon](rise_icon.png) to start the notebook as a HTML-presentation 
+- click on the Rise-icon on the right ![Rise-icon](rise_icon.png) to start the notebook as an interactive HTML-presentation 
