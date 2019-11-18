@@ -15,7 +15,7 @@ and wait for the server to complete setting up the environment.
 
 Once it's completed you should arrive at a page looking something like this:
 
-![]()
+![jupyter-page](jupyter_page.png)
 
 
 click on the **jupyter_nb_introduction.ipynpl** file and select **kernel** -> **Run All** to execute the notebook
