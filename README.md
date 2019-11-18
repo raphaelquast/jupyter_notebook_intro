@@ -5,7 +5,8 @@
 A short introduction to jupyter notebooks
 
 To have a look at the notebook, and get introductions how to set it up locally, 
-just click at the **jupyter_nb_introduction.ipynpl** (GitHub should render it automatically)
+just click at the **[jupyter_nb_introduction.ipynb](jupyter_nb_introduction.ipynb)** file 
+(GitHub should render it automatically)
 
 
 To try jupyter notebooks **without installing anything locally**, click on the "launch binder" icon above
@@ -19,4 +20,4 @@ Once it's completed you should arrive at a page looking something like this:
 
 click on the **jupyter_nb_introduction.ipynpl** file and select **kernel** -> **Run All** to execute the notebook
 
-click on the ![Rise-icon](rise_icon.png) to start the notebook as a HTML-presentation 
+click on the Rise-icon ![Rise-icon](rise_icon.png) to start the notebook as a HTML-presentation 
