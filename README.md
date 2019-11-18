@@ -5,7 +5,7 @@
 A short introduction to jupyter notebooks
 
 To have a look at the notebook, and get introductions how to set it up locally, 
-just click at the **[jupyter_nb_introduction.ipynpl](jupyter_nb_introduction.ipynpl)** file 
+just click at the **[jupyter_nb_introduction.ipynb](jupyter_nb_introduction.ipynb)** file 
 (GitHub should render it automatically)
 
 
