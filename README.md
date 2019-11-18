@@ -20,4 +20,4 @@ Once it's completed you should arrive at a page looking something like this:
 
 click on the **jupyter_nb_introduction.ipynpl** file and select **kernel** -> **Run All** to execute the notebook
 
-click on the ![Rise-icon](rise_icon.png) to start the notebook as a HTML-presentation 
+click on the Rise-icon ![Rise-icon](rise_icon.png) to start the notebook as a HTML-presentation 
