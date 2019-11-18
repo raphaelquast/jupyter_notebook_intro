@@ -23,3 +23,15 @@ Once it's completed you should arrive at a page looking something like this
 ![jupyter-page](jupyter_page_2.PNG)
 
 - click on the Rise-icon on the right ![Rise-icon](rise_icon.png) to start the notebook as an interactive HTML-presentation 
+
+
+
+# Enable scrolling the presentation slides
+some slides might be to large for your screen.
+in order to enable scrolling the slides go to the **nbextensions** tab and click on **Rise**
+![jupyter-page](nbextensions.png)
+
+Then navigate down to the following line and activate *scroll*
+![jupyter-page](scroll.png)
+
+Now, re-open the notebook to have a scrollable presentation!
