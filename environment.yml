@@ -1,0 +1,12 @@
+name: jupyter_test
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.6
+  - numpy
+  - matplotlib
+  - ipympl
+  - rise
+  - jupyter
+  - jupyter_contrib_nbextensions
